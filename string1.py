@@ -1,7 +1,7 @@
 '''
 Author:Nandana Hasheed
 Date:29-10-2024
-Python program to find vowels in a string
+Python program to find vowels and consonants in a string
 '''
 string_input=input("Enter a string")
 vowels="aeiouAEIOU"
